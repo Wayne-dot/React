@@ -109,7 +109,7 @@ function signUp(id, uname, email, password){
     users.push({_id: id, username: uname, email: email, password: password})
 }
 
-// please put your id as a string when calling singUp function
+// please put your id, username, email and password as a string when calling singUp function
 signUp("325g346", "Saul", "ecample@gmail.com", "fwgw5544");
 console.log(users)
 
@@ -117,3 +117,13 @@ console.log(users)
 // a. Create a function called rateProduct which rates the product 
 // b. Create a function called averageRating which calculate the average rating of a product
 
+function rateProduct(product_to_rate, userid, rating){
+  for(let i = 0; i < products.length; i++){
+    products
+  }
+}
+
+
+function averageRating(){
+
+}
