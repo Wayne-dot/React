@@ -10,7 +10,7 @@ Exercises: What is React?
 Exercises: JSX
 1. What is an HTML element? A piece of code with open and close tag.
 2. How to write a self closing HTML element? Just complete the open tag
-3. What is an HTML attribute? Write some of them <p> <button> <input>
-4. What is JSX?
-5. What is babel?
-6. What is a transpiler?
+3. What is an HTML attribute, write some of them? p, input, button
+4. What is JSX? Use javascript code to write HTML element
+5. What is babel? JSX use babel to transpiler to javascript code
+6. What is a transpiler? use to transfer from one language to another
